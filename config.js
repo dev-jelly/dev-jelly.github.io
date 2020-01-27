@@ -6,7 +6,7 @@ module.exports = {
   title: 'DevJelly',
   subtitle: '젤리의 끄적거림',
   copyright: '© All rights reserved.',
-  disqusShortname: '',
+  disqusShortname: 'jellyssblog',
   postsPerPage: 4,
   googleAnalyticsId: 'UA-51933789-1',
   useKatex: false,
