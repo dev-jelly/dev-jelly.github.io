@@ -26,7 +26,7 @@ module.exports = {
   ],
   author: {
     name: 'Hyenon Mook Jerry Choi a.k.a. Jelly',
-    photo: '/photo.jpg',
+    photo: '/photo.png',
     bio: 'The Creator',
     contacts: {
       email: 'chm073@gmail.com',
