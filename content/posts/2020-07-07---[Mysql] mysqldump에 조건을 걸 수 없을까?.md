@@ -6,7 +6,7 @@ draft: false
 slug: "mysqldump에 조건을 걸 수 없을까?"
 category: "DB"
 tags:
-  - "Mysql
+  - "Mysql"
   - "mysqldump"
 description: "[Mysql] mysqldump에 where 옵션을 추가할 수 있다."
 socialImage: "/media/image-2.jpg"
