@@ -1,5 +1,5 @@
 ---
-title: [Mysql] mysqldump에 조건을 걸 수 없을까?
+title: "[Mysql] mysqldump에 조건을 걸 수 없을까?"
 date: "2020-07-07T06:00:00.000Z"
 template: "post"
 draft: false
