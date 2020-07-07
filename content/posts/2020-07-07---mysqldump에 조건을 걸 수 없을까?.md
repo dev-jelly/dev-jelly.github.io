@@ -1,5 +1,5 @@
 ---
-title: "[Mysql] mysqldump에 조건을 걸 수 없을까?"
+title: "mysqldump에 조건을 걸 수 없을까?"
 date: "2020-07-07T06:00:00.000Z"
 template: "post"
 draft: false
@@ -8,7 +8,7 @@ category: "DB"
 tags:
   - "Mysql"
   - "mysqldump"
-description: "[Mysql] mysqldump에 where 옵션을 추가할 수 있다."
+description: "mysqldump에 where 옵션을 추가할 수 있다."
 socialImage: "/media/image-2.jpg"
 ---
 
