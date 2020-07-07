@@ -1,6 +1,6 @@
 ---
 title: [Mysql] mysqldump에 조건을 걸 수 없을까?
-date: "2020-07-07T00:00:00.000Z"
+date: "2020-07-07T08:00:00.000Z"
 template: "post"
 draft: false
 slug: "mysqldump에 조건을 걸 수 없을까?"
