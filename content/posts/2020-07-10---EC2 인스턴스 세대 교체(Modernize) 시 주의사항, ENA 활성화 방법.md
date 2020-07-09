@@ -4,7 +4,7 @@ date: "2020-07-10T00:00:00.000Z"
 template: "post"
 draft: false
 slug: "EC2 인스턴스 세대 교체(Modernize) 시 주의사항, ENA 활성화 방법"
-category: "DB"
+category: "AWS"
 tags:
   - "AWS"
   - "EC2"
