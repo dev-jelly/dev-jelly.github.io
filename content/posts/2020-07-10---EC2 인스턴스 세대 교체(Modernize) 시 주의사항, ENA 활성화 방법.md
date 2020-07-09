@@ -6,9 +6,10 @@ draft: false
 slug: "EC2 인스턴스 세대 교체(Modernize) 시 주의사항, ENA 활성화 방법"
 category: "DB"
 tags:
-  - "Mysql"
-  - "mysqldump"
-description: "최근에 서버를 전체적으로 정리하면서, 이전 세대의 인스턴스를 다 업그레이드 하고 있다. 업그레이드를 하던 중 아래와 같은 메시지가 나타났다."
+  - "AWS"
+  - "EC2"
+  - "ENA"
+description: "최근에 서버를 전체적으로 정리하면서, 이전 세대의 인스턴스를 다 업그레이드 하고 있다. 업그레이드를 하던 중 아래와 같은 메시지가 나타났다. EC2, Modernize, ENA"
 socialImage: "/media/image-2.jpg"
 ---
 
