@@ -1,5 +1,5 @@
 ---
-title: "A tour of python 만들기 (0) - 어떻게 만들건데?"
+title: "A Tour of python 만들기 (0) - 어떻게 만들건데"
 date: "2021-02-21T09:00:00.000Z"
 template: "post"
 draft: false
