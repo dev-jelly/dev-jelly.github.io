@@ -82,6 +82,15 @@
   Link: </styles-6ead1a2ff6b879946de7.js>; rel=preload; as=script
   Link: </commons-7fc3138dab4b5e72cf59.js>; rel=preload; as=script
   Link: </component---src-templates-not-found-template-js-03a49449e1a83219ee25.js>; rel=preload; as=script
+/posts/EC2 인스턴스 세대 교체(Modernize) 시 주의사항, ENA 활성화 방법
+  Link: </webpack-runtime-e901f67d7477ed8340f1.js>; rel=preload; as=script
+  Link: </styles-6ead1a2ff6b879946de7.js>; rel=preload; as=script
+  Link: </commons-7fc3138dab4b5e72cf59.js>; rel=preload; as=script
+  Link: </netlify-identity-widget-171ffe191486f421f700.js>; rel=preload; as=script
+  Link: </app-29c491a05f1bdee493b0.js>; rel=preload; as=script
+  Link: </styles-6ead1a2ff6b879946de7.js>; rel=preload; as=script
+  Link: </commons-7fc3138dab4b5e72cf59.js>; rel=preload; as=script
+  Link: </component---src-templates-post-template-js-166f4ac34da7fad8cfdd.js>; rel=preload; as=script
 /posts/mysqldump에 조건을 걸 수 없을까
   Link: </webpack-runtime-e901f67d7477ed8340f1.js>; rel=preload; as=script
   Link: </styles-6ead1a2ff6b879946de7.js>; rel=preload; as=script
@@ -92,15 +101,6 @@
   Link: </commons-7fc3138dab4b5e72cf59.js>; rel=preload; as=script
   Link: </component---src-templates-post-template-js-166f4ac34da7fad8cfdd.js>; rel=preload; as=script
 /posts/앞으로, 그리고 회고
-  Link: </webpack-runtime-e901f67d7477ed8340f1.js>; rel=preload; as=script
-  Link: </styles-6ead1a2ff6b879946de7.js>; rel=preload; as=script
-  Link: </commons-7fc3138dab4b5e72cf59.js>; rel=preload; as=script
-  Link: </netlify-identity-widget-171ffe191486f421f700.js>; rel=preload; as=script
-  Link: </app-29c491a05f1bdee493b0.js>; rel=preload; as=script
-  Link: </styles-6ead1a2ff6b879946de7.js>; rel=preload; as=script
-  Link: </commons-7fc3138dab4b5e72cf59.js>; rel=preload; as=script
-  Link: </component---src-templates-post-template-js-166f4ac34da7fad8cfdd.js>; rel=preload; as=script
-/posts/EC2 인스턴스 세대 교체(Modernize) 시 주의사항, ENA 활성화 방법
   Link: </webpack-runtime-e901f67d7477ed8340f1.js>; rel=preload; as=script
   Link: </styles-6ead1a2ff6b879946de7.js>; rel=preload; as=script
   Link: </commons-7fc3138dab4b5e72cf59.js>; rel=preload; as=script
@@ -136,15 +136,6 @@
   Link: </styles-6ead1a2ff6b879946de7.js>; rel=preload; as=script
   Link: </commons-7fc3138dab4b5e72cf59.js>; rel=preload; as=script
   Link: </component---src-templates-page-template-js-814e63885548285c5ec8.js>; rel=preload; as=script
-/posts/Making A tour of Python
-  Link: </webpack-runtime-e901f67d7477ed8340f1.js>; rel=preload; as=script
-  Link: </styles-6ead1a2ff6b879946de7.js>; rel=preload; as=script
-  Link: </commons-7fc3138dab4b5e72cf59.js>; rel=preload; as=script
-  Link: </netlify-identity-widget-171ffe191486f421f700.js>; rel=preload; as=script
-  Link: </app-29c491a05f1bdee493b0.js>; rel=preload; as=script
-  Link: </styles-6ead1a2ff6b879946de7.js>; rel=preload; as=script
-  Link: </commons-7fc3138dab4b5e72cf59.js>; rel=preload; as=script
-  Link: </component---src-templates-post-template-js-166f4ac34da7fad8cfdd.js>; rel=preload; as=script
 /pages/contacts/
   Link: </webpack-runtime-e901f67d7477ed8340f1.js>; rel=preload; as=script
   Link: </styles-6ead1a2ff6b879946de7.js>; rel=preload; as=script
@@ -155,6 +146,15 @@
   Link: </commons-7fc3138dab4b5e72cf59.js>; rel=preload; as=script
   Link: </component---src-templates-page-template-js-814e63885548285c5ec8.js>; rel=preload; as=script
 /posts/Making A tour of Python 1
+  Link: </webpack-runtime-e901f67d7477ed8340f1.js>; rel=preload; as=script
+  Link: </styles-6ead1a2ff6b879946de7.js>; rel=preload; as=script
+  Link: </commons-7fc3138dab4b5e72cf59.js>; rel=preload; as=script
+  Link: </netlify-identity-widget-171ffe191486f421f700.js>; rel=preload; as=script
+  Link: </app-29c491a05f1bdee493b0.js>; rel=preload; as=script
+  Link: </styles-6ead1a2ff6b879946de7.js>; rel=preload; as=script
+  Link: </commons-7fc3138dab4b5e72cf59.js>; rel=preload; as=script
+  Link: </component---src-templates-post-template-js-166f4ac34da7fad8cfdd.js>; rel=preload; as=script
+/posts/Making A tour of Python
   Link: </webpack-runtime-e901f67d7477ed8340f1.js>; rel=preload; as=script
   Link: </styles-6ead1a2ff6b879946de7.js>; rel=preload; as=script
   Link: </commons-7fc3138dab4b5e72cf59.js>; rel=preload; as=script
