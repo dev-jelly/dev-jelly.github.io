@@ -80,5 +80,5 @@ module.exports = {
 ```Typescript
 const ExtendedComponent: React.FC = () => (
   <BaseComponent className="ow:bg-gray-300" />
-);
+); 
 ```
