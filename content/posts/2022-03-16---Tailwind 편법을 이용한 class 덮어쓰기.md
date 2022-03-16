@@ -4,7 +4,7 @@ date: "2022-03-16T21:00:00.000Z"
 template: "post"
 draft: false
 slug: "Tailwind 사용시 편법을 이용하여 class 덮어쓰기"
-category: "Unity"
+category: "Web"
 tags:
   - "CSS"
   - "Tailwind"
