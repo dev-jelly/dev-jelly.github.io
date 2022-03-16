@@ -10,7 +10,7 @@ tags:
   - "Tailwind"
   - "HTML"
 description: "재작년 말에 살짝 맛본 뒤 요새 Tailwind를 메인으로 사용중인데, 컴포넌트를 확장하여 사용하려다 보니 문제가 발생하였다. 처음에는 아래와 같은 방식으로 처리하려고 했다."
-socialImage: "/media/image-2.jpg"
+socialImage: "/media/tailwind-css.png"
 ---
 
 ## 짧은 글
